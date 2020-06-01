@@ -41,7 +41,7 @@ An application, built in React, that allows users to search for, save, and view 
 MVC design pattern: Model, View, Controller.
 
 <h2 align="center">
-<img alt="mern" src="client/assets/mern.jpeg" width="50%">
+<img alt="mern" src="client/src/assets/mern.jpeg" width="50%">
 </h2>
 
 - [MongoDB](mongodb.com)
