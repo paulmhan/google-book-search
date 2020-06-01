@@ -10,8 +10,7 @@ An application, built in React, that allows users to search for, save, and view 
 `Save` button to save the book to the database.<br>
 `View` button to view the book on Google Books.
 
-
-
+Check Out the Live App Here: [Google Books Search](https://react-google-book-search-app.herokuapp.com/)
 
 
 ## APIs Used
