@@ -44,7 +44,7 @@ MVC design pattern: Model, View, Controller.
 <img alt="mern" src="client/src/assets/mern.jpeg" width="50%">
 </h2>
 
-- [MongoDB](mongodb.com)
+- [MongoDB](https://www.mongodb.com/)
 - [Express.js](https://expressjs.com)
 - [React.js](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
